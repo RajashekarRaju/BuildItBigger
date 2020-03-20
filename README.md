@@ -1,7 +1,7 @@
 # BuildItBigger
-Student project for Android Developer Nanodegree by Google.
+Student project for Android Developer Nanodegree by Google and Udacity.
 
-https://lh3.googleusercontent.com/cJQtO_A08shKWZ1NEJxpvdYcfXxoHH87HYldIx_gOoGcoqnnZDTP3ycVqAnZSUMYzHygxhb-nEE_Yv_QmZY=s0#w=1920&h=1080
+![App Structure](https://lh3.googleusercontent.com/cJQtO_A08shKWZ1NEJxpvdYcfXxoHH87HYldIx_gOoGcoqnnZDTP3ycVqAnZSUMYzHygxhb-nEE_Yv_QmZY=s0#w=1920&h=1080)
 
 # Gradle for Android and Java Final Project
 
