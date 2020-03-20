@@ -1,0 +1,2 @@
+rootProject.name='Build It Bigger'
+include ':app'
